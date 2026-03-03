@@ -1,0 +1,16 @@
+# 代理IP配置文件
+# 每行一个代理，格式: IP:PORT
+# 示例:
+# 192.168.1.1:8080
+# 10.0.0.1:3128
+# 
+# 推荐代理服务商:
+# 1. 快代理 https://www.kuaidaili.com
+# 2. 芝麻代理 https://jahttp.zhimaruanjian.com
+# 3. 讯代理 https://www.xdaili.com
+# 4. 阿布云 https://www.abuyun.com
+#
+# 注意事项:
+# - 使用付费代理效果更好
+# - 免费代理不稳定，容易被封
+# - 建议使用HTTPS代理
